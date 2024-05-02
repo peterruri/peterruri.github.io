@@ -1,0 +1,11 @@
+.atap{
+    background-color: blueviolet;
+    font-family:Verdana;
+}
+
+.avatar {
+    width: 10vw;
+    border-radius: 100rem;
+    margin-left: 2%;
+    margin-top: 2%;
+}
