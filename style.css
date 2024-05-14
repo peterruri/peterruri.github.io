@@ -1,11 +1,17 @@
 .atap{
-    background-color: blueviolet;
     font-family:Verdana;
 }
 
-.avatar {
+.pfp{
     width: 10vw;
     border-radius: 100rem;
     margin-left: 2%;
     margin-top: 2%;
+}
+
+nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items:center;
 }
